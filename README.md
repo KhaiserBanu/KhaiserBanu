@@ -17,7 +17,7 @@ I’m a QA Engineer with experience in enterprise applications, manual and autom
 - Test Planning, Bug Tracking, Regression Testing
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/khaiser-banu  
+- LinkedIn: https://www.linkedin.com/in/khaiserbanu
 - Email: khaiserb080@gmail.com
 
 ---
